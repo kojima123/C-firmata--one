@@ -1,0 +1,70 @@
+C:\Kinect\Ch07\HUI\HUI\bin\Debug\HUI.exe
+C:\Kinect\Ch07\HUI\HUI\bin\Debug\HUI.pdb
+C:\Kinect\Ch07\HUI\HUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Kinect\Ch07\HUI\HUI\obj\x86\Debug\HUI.Form1.resources
+C:\Kinect\Ch07\HUI\HUI\obj\x86\Debug\HUI.Properties.Resources.resources
+C:\Kinect\Ch07\HUI\HUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Kinect\Ch07\HUI\HUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Kinect\Ch07\HUI\HUI\obj\x86\Debug\HUI.exe
+C:\Kinect\Ch07\HUI\HUI\obj\x86\Debug\HUI.pdb
+C:\Kinect\Ch07\HUI\HUI\obj\x86\Debug\HUI.Form2.resources
+C:\Users\kageisehara\Desktop\KinectProgForWin\Ch07\HUI\HUI\obj\x86\Debug\HUI.exe
+C:\Users\kageisehara\Desktop\KinectProgForWin\Ch07\HUI\HUI\obj\x86\Debug\HUI.pdb
+C:\Users\kageisehara\Desktop\KinectProgForWin\Ch07\HUI\HUI\bin\Debug\HUI.exe
+C:\Users\kageisehara\Desktop\KinectProgForWin\Ch07\HUI\HUI\bin\Debug\HUI.pdb
+C:\Users\kageisehara\Desktop\KinectProgForWin\Ch07\HUI\HUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kageisehara\Desktop\KinectProgForWin\Ch07\HUI\HUI\obj\x86\Debug\HUI.Form1.resources
+C:\Users\kageisehara\Desktop\KinectProgForWin\Ch07\HUI\HUI\obj\x86\Debug\HUI.Form2.resources
+C:\Users\kageisehara\Desktop\KinectProgForWin\Ch07\HUI\HUI\obj\x86\Debug\HUI.Properties.Resources.resources
+C:\Users\kageisehara\Desktop\KinectProgForWin\Ch07\HUI\HUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\kageisehara\Desktop\KinectProgForWin\Ch07\HUI\HUI\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\HUI\HUI\obj\x86\Debug\HUI.exe
+J:\HUI\HUI\obj\x86\Debug\HUI.pdb
+J:\HUI\HUI\bin\Debug\HUI.exe
+J:\HUI\HUI\bin\Debug\HUI.pdb
+J:\HUI\HUI\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\HUI\HUI\obj\x86\Debug\HUI.Form1.resources
+J:\HUI\HUI\obj\x86\Debug\HUI.Form2.resources
+J:\HUI\HUI\obj\x86\Debug\HUI.Properties.Resources.resources
+J:\HUI\HUI\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\HUI\HUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\kageyamalab03\Desktop\新しいフォルダー (2)\HUI\HUI\obj\x86\Debug\HUI.exe
+C:\Users\kageyamalab03\Desktop\新しいフォルダー (2)\HUI\HUI\obj\x86\Debug\HUI.pdb
+C:\Users\kageyamalab03\Desktop\新しいフォルダー (2)\HUI\HUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kageyamalab03\Desktop\新しいフォルダー (2)\HUI\HUI\obj\x86\Debug\HUI.Form1.resources
+C:\Users\kageyamalab03\Desktop\新しいフォルダー (2)\HUI\HUI\obj\x86\Debug\HUI.Form2.resources
+C:\Users\kageyamalab03\Desktop\新しいフォルダー (2)\HUI\HUI\obj\x86\Debug\HUI.Properties.Resources.resources
+C:\Users\kageyamalab03\Desktop\新しいフォルダー (2)\HUI\HUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\kageyamalab03\Desktop\新しいフォルダー (2)\HUI\HUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\kageyamalab03\Desktop\新しいフォルダー (2)\HUI\HUI\bin\Debug\HUI.exe
+C:\Users\kageyamalab03\Desktop\新しいフォルダー (2)\HUI\HUI\bin\Debug\HUI.pdb
+C:\Users\kageyamalab03\Desktop\HUI\HUI\HUI\obj\x86\Debug\HUI.exe
+C:\Users\kageyamalab03\Desktop\HUI\HUI\HUI\obj\x86\Debug\HUI.pdb
+C:\Users\kageyamalab03\Desktop\arduino\HUI\HUI\HUI\obj\x86\Debug\HUI.exe
+C:\Users\kageyamalab03\Desktop\arduino\HUI\HUI\HUI\obj\x86\Debug\HUI.pdb
+C:\Users\kageyamalab03\Desktop\HUI\HUI\HUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kageyamalab03\Desktop\HUI\HUI\HUI\obj\x86\Debug\HUI.Form1.resources
+C:\Users\kageyamalab03\Desktop\HUI\HUI\HUI\obj\x86\Debug\HUI.Form2.resources
+C:\Users\kageyamalab03\Desktop\HUI\HUI\HUI\obj\x86\Debug\HUI.Properties.Resources.resources
+C:\Users\kageyamalab03\Desktop\HUI\HUI\HUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\kageyamalab03\Desktop\HUI\HUI\HUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\kageyamalab03\Desktop\HUI\HUI\HUI\bin\Debug\HUI.exe
+C:\Users\kageyamalab03\Desktop\HUI\HUI\HUI\bin\Debug\HUI.pdb
+C:\Users\kageyamalab03\Desktop\C#firmata\HUI\HUI\obj\x86\Debug\HUI.exe
+C:\Users\kageyamalab03\Desktop\C#firmata\HUI\HUI\obj\x86\Debug\HUI.pdb
+C:\Users\kageyamalab03\Desktop\C#firmata\HUIfir\HUI\obj\x86\Debug\HUI.exe
+C:\Users\kageyamalab03\Desktop\C#firmata\HUIfir\HUI\obj\x86\Debug\HUI.pdb
+C:\Users\kageyamalab03\Desktop\C#firmata\HUIfir\HUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kageyamalab03\Desktop\C#firmata\HUIfir\HUI\obj\x86\Debug\HUI.Form1.resources
+C:\Users\kageyamalab03\Desktop\C#firmata\HUIfir\HUI\obj\x86\Debug\HUI.Form2.resources
+C:\Users\kageyamalab03\Desktop\C#firmata\HUIfir\HUI\obj\x86\Debug\HUI.Properties.Resources.resources
+C:\Users\kageyamalab03\Desktop\C#firmata\HUIfir\HUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\kageyamalab03\Desktop\C#firmata\HUIfir\HUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\kageyamalab03\Desktop\C#firmata\HUIfir\HUI\bin\Debug\HUI.exe
+C:\Users\kageyamalab03\Desktop\C#firmata\HUIfir\HUI\bin\Debug\HUI.pdb
+C:\Users\kageyamalab03\Desktop\C#firmata chart\HUIfir\HUI\obj\x86\Debug\HUI.exe
+C:\Users\kageyamalab03\Desktop\C#firmata chart\HUIfir\HUI\obj\x86\Debug\HUI.pdb
+C:\Users\kageyamalab03\Desktop\C#firmata ＦＦＴ　class\HUIfir\HUI\obj\x86\Debug\HUI.exe
+C:\Users\kageyamalab03\Desktop\C#firmata ＦＦＴ　class\HUIfir\HUI\obj\x86\Debug\HUI.pdb
+C:\Users\kageyamalab03\Desktop\HUIfir\HUI\obj\x86\Debug\HUI.exe
+C:\Users\kageyamalab03\Desktop\HUIfir\HUI\obj\x86\Debug\HUI.pdb

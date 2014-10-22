@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="sample_0007">
+</Property><Property Name="ソリューション ファイル" Value="C:\Users\kageyamalab\Desktop\sample_0007\sample_0007.sln">
+</Property><Property Name="ユーザー オプション ファイル" Value="C:\Users\kageyamalab\Desktop\sample_0007\sample_0007.suo">
+</Property><Property Name="Date" Value="2012年11月22日">
+</Property><Property Name="Time" Value="13:06">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="sample_0007.sln" Description="ファイルは正常に C:\Users\kageyamalab\Desktop\sample_0007\Backup\sample_0007.sln としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="" Source="sample_0007.suo" Description="ファイルは正常に C:\Users\kageyamalab\Desktop\sample_0007\Backup\sample_0007.suo としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="sample_0007" Source="sample_0007.csproj" Description="プロジェクト ファイルは正常に C:\Users\kageyamalab\Desktop\sample_0007\Backup\sample_0007.csproj としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="sample_0007" Source="Form1.cs" Description="ファイルは正常に C:\Users\kageyamalab\Desktop\sample_0007\Backup\Form1.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="sample_0007" Source="Form1.Designer.cs" Description="ファイルは正常に C:\Users\kageyamalab\Desktop\sample_0007\Backup\Form1.Designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="sample_0007" Source="Program.cs" Description="ファイルは正常に C:\Users\kageyamalab\Desktop\sample_0007\Backup\Program.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="sample_0007" Source="Properties\AssemblyInfo.cs" Description="ファイルは正常に C:\Users\kageyamalab\Desktop\sample_0007\Backup\Properties\AssemblyInfo.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="sample_0007" Source="Properties\Resources.Designer.cs" Description="ファイルは正常に C:\Users\kageyamalab\Desktop\sample_0007\Backup\Properties\Resources.Designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="sample_0007" Source="Properties\Settings.Designer.cs" Description="ファイルは正常に C:\Users\kageyamalab\Desktop\sample_0007\Backup\Properties\Settings.Designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="sample_0007" Source="Properties\Settings.settings" Description="ファイルは正常に C:\Users\kageyamalab\Desktop\sample_0007\Backup\Properties\Settings.settings としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="sample_0007" Source="Form1.resx" Description="ファイルは正常に C:\Users\kageyamalab\Desktop\sample_0007\Backup\Form1.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="sample_0007" Source="Properties\Resources.resx" Description="ファイルは正常に C:\Users\kageyamalab\Desktop\sample_0007\Backup\Properties\Resources.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="sample_0007" Source="sample_0007.csproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="sample_0007" Source="sample_0007.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="sample_0007.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="sample_0007.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="sample_0007" Source="sample_0007.csproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event></UpgradeLog>

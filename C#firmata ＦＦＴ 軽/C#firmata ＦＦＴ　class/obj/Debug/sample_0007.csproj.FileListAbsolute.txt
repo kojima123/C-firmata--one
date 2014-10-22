@@ -1,0 +1,97 @@
+C:\Users\kageyamalab03\Desktop\C#firmata chart\bin\Debug\sample_0007.exe
+C:\Users\kageyamalab03\Desktop\C#firmata chart\bin\Debug\sample_0007.pdb
+C:\Users\kageyamalab03\Desktop\C#firmata chart\bin\Debug\Sharpduino.dll
+C:\Users\kageyamalab03\Desktop\C#firmata chart\bin\Debug\Sharpduino.pdb
+C:\Users\kageyamalab03\Desktop\C#firmata chart\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kageyamalab03\Desktop\C#firmata chart\obj\Debug\sample_0007.Form1.resources
+C:\Users\kageyamalab03\Desktop\C#firmata chart\obj\Debug\sample_0007.Properties.Resources.resources
+C:\Users\kageyamalab03\Desktop\C#firmata chart\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\kageyamalab03\Desktop\C#firmata chart\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\kageyamalab03\Desktop\C#firmata chart\obj\Debug\sample_0007.exe
+C:\Users\kageyamalab03\Desktop\C#firmata chart\obj\Debug\sample_0007.pdb
+C:\Users\祐登\Desktop\C#firmata chart\obj\Debug\sample_0007.exe
+C:\Users\祐登\Desktop\C#firmata chart\obj\Debug\sample_0007.pdb
+C:\Users\祐登\Desktop\C#firmata chart\obj\Debug\sample_0007.csprojResolveAssemblyReference.cache
+C:\Users\祐登\Desktop\C#firmata chart\obj\Debug\sample_0007.Form1.resources
+C:\Users\祐登\Desktop\C#firmata chart\obj\Debug\sample_0007.Properties.Resources.resources
+C:\Users\祐登\Desktop\C#firmata chart\obj\Debug\sample_0007.csproj.GenerateResource.Cache
+C:\Users\祐登\Desktop\C#firmata chart\bin\Debug\sample_0007.exe
+C:\Users\祐登\Desktop\C#firmata chart\bin\Debug\sample_0007.pdb
+C:\Users\祐登\Desktop\C#firmata chart\bin\Debug\Hisui.Gui.dll
+C:\Users\祐登\Desktop\C#firmata chart\bin\Debug\Sharpduino.dll
+C:\Users\祐登\Desktop\C#firmata chart\bin\Debug\Hisui.Core.dll
+C:\Users\祐登\Desktop\C#firmata chart\bin\Debug\Hisui.Graphics.dll
+C:\Users\祐登\Desktop\C#firmata chart\bin\Debug\Hisui.Geom.dll
+C:\Users\祐登\Desktop\C#firmata chart\bin\Debug\Hisui.Hix.dll
+C:\Users\祐登\Desktop\C#firmata chart\bin\Debug\Hisui.Ctrl.dll
+C:\Users\祐登\Desktop\C#firmata chart\bin\Debug\Hisui.SI.dll
+C:\Users\祐登\Desktop\C#firmata chart\bin\Debug\Hisui.OpenGL.dll
+C:\Users\祐登\Desktop\C#firmata chart\bin\Debug\Hisui.Testing.dll
+C:\Users\祐登\Desktop\C#firmata chart\bin\Debug\Hisui.Gui.xml
+C:\Users\祐登\Desktop\C#firmata chart\bin\Debug\Sharpduino.pdb
+C:\Users\祐登\Desktop\C#firmata chart\bin\Debug\Hisui.Core.xml
+C:\Users\祐登\Desktop\C#firmata chart\bin\Debug\Hisui.Graphics.xml
+C:\Users\祐登\Desktop\C#firmata chart\bin\Debug\Hisui.Geom.xml
+C:\Users\祐登\Desktop\C#firmata chart\bin\Debug\Hisui.Hix.xml
+C:\Users\祐登\Desktop\C#firmata chart\bin\Debug\Hisui.Ctrl.xml
+C:\Users\祐登\Desktop\C#firmata chart\bin\Debug\Hisui.SI.xml
+C:\Users\祐登\Desktop\C#firmata chart\bin\Debug\en\Hisui.Gui.resources.dll
+C:\Users\祐登\Desktop\C#firmata chart\bin\Debug\ja\Hisui.Gui.resources.dll
+C:\Users\祐登\Desktop\C#firmata ＦＦＴ　class\obj\Debug\sample_0007.exe
+C:\Users\祐登\Desktop\C#firmata ＦＦＴ　class\obj\Debug\sample_0007.pdb
+C:\Users\祐登\Desktop\C#firmata ＦＦＴ　class\bin\Debug\sample_0007.exe
+C:\Users\祐登\Desktop\C#firmata ＦＦＴ　class\bin\Debug\sample_0007.pdb
+C:\Users\祐登\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Hisui.Gui.dll
+C:\Users\祐登\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Sharpduino.dll
+C:\Users\祐登\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Hisui.Core.dll
+C:\Users\祐登\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Hisui.Graphics.dll
+C:\Users\祐登\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Hisui.Geom.dll
+C:\Users\祐登\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Hisui.Hix.dll
+C:\Users\祐登\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Hisui.Ctrl.dll
+C:\Users\祐登\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Hisui.SI.dll
+C:\Users\祐登\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Hisui.OpenGL.dll
+C:\Users\祐登\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Hisui.Testing.dll
+C:\Users\祐登\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Hisui.Gui.xml
+C:\Users\祐登\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Sharpduino.pdb
+C:\Users\祐登\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Hisui.Core.xml
+C:\Users\祐登\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Hisui.Graphics.xml
+C:\Users\祐登\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Hisui.Geom.xml
+C:\Users\祐登\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Hisui.Hix.xml
+C:\Users\祐登\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Hisui.Ctrl.xml
+C:\Users\祐登\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Hisui.SI.xml
+C:\Users\祐登\Desktop\C#firmata ＦＦＴ　class\bin\Debug\en\Hisui.Gui.resources.dll
+C:\Users\祐登\Desktop\C#firmata ＦＦＴ　class\bin\Debug\ja\Hisui.Gui.resources.dll
+C:\Users\祐登\Desktop\C#firmata ＦＦＴ　class\obj\Debug\sample_0007.csprojResolveAssemblyReference.cache
+C:\Users\祐登\Desktop\C#firmata ＦＦＴ　class\obj\Debug\sample_0007.Form1.resources
+C:\Users\祐登\Desktop\C#firmata ＦＦＴ　class\obj\Debug\sample_0007.Properties.Resources.resources
+C:\Users\祐登\Desktop\C#firmata ＦＦＴ　class\obj\Debug\sample_0007.csproj.GenerateResource.Cache
+J:\C#firmata ＦＦＴ　class\obj\Debug\sample_0007.exe
+J:\C#firmata ＦＦＴ　class\obj\Debug\sample_0007.pdb
+C:\Users\kageyamalab03\Desktop\C#firmata ＦＦＴ　class\obj\Debug\sample_0007.exe
+C:\Users\kageyamalab03\Desktop\C#firmata ＦＦＴ　class\obj\Debug\sample_0007.pdb
+C:\Users\kageyamalab03\Desktop\C#firmata ＦＦＴ　class\bin\Debug\sample_0007.exe
+C:\Users\kageyamalab03\Desktop\C#firmata ＦＦＴ　class\bin\Debug\sample_0007.pdb
+C:\Users\kageyamalab03\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Sharpduino.dll
+C:\Users\kageyamalab03\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Hisui.Core.dll
+C:\Users\kageyamalab03\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Hisui.Graphics.dll
+C:\Users\kageyamalab03\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Hisui.Geom.dll
+C:\Users\kageyamalab03\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Hisui.Hix.dll
+C:\Users\kageyamalab03\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Hisui.Ctrl.dll
+C:\Users\kageyamalab03\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Hisui.SI.dll
+C:\Users\kageyamalab03\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Hisui.OpenGL.dll
+C:\Users\kageyamalab03\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Hisui.Testing.dll
+C:\Users\kageyamalab03\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Hisui.Gui.xml
+C:\Users\kageyamalab03\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Sharpduino.pdb
+C:\Users\kageyamalab03\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Hisui.Core.xml
+C:\Users\kageyamalab03\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Hisui.Graphics.xml
+C:\Users\kageyamalab03\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Hisui.Geom.xml
+C:\Users\kageyamalab03\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Hisui.Hix.xml
+C:\Users\kageyamalab03\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Hisui.Ctrl.xml
+C:\Users\kageyamalab03\Desktop\C#firmata ＦＦＴ　class\bin\Debug\Hisui.SI.xml
+C:\Users\kageyamalab03\Desktop\C#firmata ＦＦＴ　class\bin\Debug\en\Hisui.Gui.resources.dll
+C:\Users\kageyamalab03\Desktop\C#firmata ＦＦＴ　class\bin\Debug\ja\Hisui.Gui.resources.dll
+C:\Users\kageyamalab03\Desktop\C#firmata ＦＦＴ　class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kageyamalab03\Desktop\C#firmata ＦＦＴ　class\obj\Debug\sample_0007.Form1.resources
+C:\Users\kageyamalab03\Desktop\C#firmata ＦＦＴ　class\obj\Debug\sample_0007.Properties.Resources.resources
+C:\Users\kageyamalab03\Desktop\C#firmata ＦＦＴ　class\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\kageyamalab03\Desktop\C#firmata ＦＦＴ　class\obj\Debug\GenerateResource.write.1.tlog
